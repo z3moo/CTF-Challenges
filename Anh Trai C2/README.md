@@ -18,7 +18,7 @@ The security team quickly isolated her machine and captured the network traffic 
 3. Into which process did the malicious program load the DLL?
 4. Which C2 framework did the attacker use?
 5. What was the first command the attacker ran on the victim’s machine?
-6. What files did the attacker upload to the victim’s machine? (List in chronological order, earliest-latest. Format: `BKSEC{filename1-filename2-...}`)
+6. What files did the attacker upload to the victim’s machine? (List in chronological order, earliest-latest. Format: `filename1-filename2-...`)
 7. There is a secret in one of two files. Find it.
     
 ## Files
