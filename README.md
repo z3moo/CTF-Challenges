@@ -8,3 +8,4 @@ This repository contains my custom-made CTF challenges.
 | :--- | :--- | :--- |
 | [Anh Trai C2](./Anh%20Trai%20C2/) | Medium | Analyze a network capture file |
 | [American Bee](./American%20Bee/) | Easy | Analyze a USB pcap file |
+| [Nimble Plant](./Nimble%20Plant/) | Medium | Analyze a pcap file and memory dump |
